@@ -8,7 +8,7 @@ export default function DetailsScreen({ navigation }) {
         <Text style={styles.title}>Sobre o App</Text>
         
         <Image
-          source={{ uri: '/api/placeholder/250/150' }}
+          source={require('../assets/binarios.jpeg')}
           style={styles.banner}
         />
         

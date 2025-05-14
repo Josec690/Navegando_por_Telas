@@ -7,7 +7,7 @@ export default function HomeScreen({ navigation }) {
       <Text style={styles.title}>Bem-vindo ao Meu App</Text>
       
       <Image
-        source={{ uri: '/api/placeholder/200/200' }}
+        source={require('../assets/react_native.jpg')}
         style={styles.logo}
       />
       

@@ -8,10 +8,10 @@ export default function AboutScreen({ navigation }) {
       
       <View style={styles.profileContainer}>
         <Image
-          source={{ uri: '/api/placeholder/150/150' }}
+          source={require('../assets/foto.jpg')}
           style={styles.profileImage}
         />
-        <Text style={styles.name}>João Silva</Text>
+        <Text style={styles.name}>José Silva</Text>
         <Text style={styles.role}>Desenvolvedor Mobile</Text>
       </View>
       
@@ -23,10 +23,10 @@ export default function AboutScreen({ navigation }) {
         
         <View style={styles.contactContainer}>
           <Text style={styles.contactTitle}>Contato:</Text>
-          <Text style={styles.contactText}>Email: joao.silva@email.com</Text>
+          <Text style={styles.contactText}>Email: jose.silva@email.com</Text>
           <Text style={styles.contactText}>Telefone: (11) 98765-4321</Text>
-          <Text style={styles.contactText}>LinkedIn: linkedin.com/in/joaosilva</Text>
-          <Text style={styles.contactText}>GitHub: github.com/joaosilva</Text>
+          <Text style={styles.contactText}>LinkedIn: linkedin.com/in/josesilva</Text>
+          <Text style={styles.contactText}>GitHub: github.com/josesilva</Text>
         </View>
       </View>
       
