@@ -13,6 +13,11 @@
 
 
 ## Mobile
-### Home | Detalhes | Desenvolvedor
+### Home 
+![iPhone-13-PRO-localhost](https://github.com/user-attachments/assets/15f33061-c22f-4c20-a55c-849e8f425c19)  
 
-![iPhone-13-PRO-localhost](https://github.com/user-attachments/assets/15f33061-c22f-4c20-a55c-849e8f425c19)  ![iPhone-13-PRO-localhost (1)](https://github.com/user-attachments/assets/83becbec-8142-464c-be9e-300c9de5b833)  ![iPhone-13-PRO-localhost (2)](https://github.com/user-attachments/assets/b395b575-0f2e-4070-a869-1161870e0111) 
+### Detalhes
+![iPhone-13-PRO-localhost (1)](https://github.com/user-attachments/assets/83becbec-8142-464c-be9e-300c9de5b833)  
+
+### Desenvolvedor
+![iPhone-13-PRO-localhost (2)](https://github.com/user-attachments/assets/b395b575-0f2e-4070-a869-1161870e0111) 
